@@ -27,4 +27,4 @@ async def attack(ctx, arg1, arg2, arg3:int, arg4):
       async with requests.get(f"Pleaseaddyourkeyhere&host={arg1}&port={arg2}&time={arg3}&method={arg4}")
       embed1 = discord.Embed(title=f'attack sent! :droplet:',color=discord.Color.from_rgb(0, 191, 255))
       
-client.run("")      
+client.run("ODQyMDQ2MTg3NDk3NTg2NzI4.YJvmnw.KFaywljKEm6qIzyYCvQ8JnPYLQA")      
